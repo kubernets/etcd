@@ -9,3 +9,7 @@ docker hub addr [https://hub.docker.com/u/kubernets](https://hub.docker.com/u/ku
 - [**amd64** 3.1.12](https://hub.docker.com/r/kubernets/etcd-amd64)
 
     > docker pull kubernets/etcd-amd64:3.1.12
+
+- [**amd64** 3.2.18](https://hub.docker.com/r/kubernets/etcd-amd64)
+
+    > docker pull kubernets/etcd-amd64:3.2.18
